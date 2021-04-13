@@ -1,0 +1,30 @@
+{
+  "PPQN": 96,
+  "messages": [
+	{
+	  "octave": 2,
+	  "noteName": "C2",
+	  "tick": 0,
+	  "velocity": 100,
+	  "noteNumber": 36,
+	  "timestamp": 0
+	},
+	{
+	  "octave": 3,
+	  "noteName": "D#3",
+	  "tick": 0,
+	  "velocity": 103,
+	  "noteNumber": 51,
+	  "timestamp": 0
+	},
+	{
+	  "octave": 2,
+	  "noteName": "C2",
+	  "tick": 96,
+	  "velocity": 101,
+	  "noteNumber": 36,
+	  "timestamp": 455
+	},
+  ],
+  "BPM": 132
+}
